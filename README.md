@@ -20,7 +20,8 @@ Sepanjang Februari 2025 hingga 11 September 2026, mekanisme tersebut telah menan
 
 Langkah tersebut diperlukan karena pelaku perjudian dapat berpindah dari satu platform ke platform lainnya untuk :
 
-Penyebab Utama : 
-- Menyebarkan konten                 
-- Mengarahkan pengguna               
-- Mempertahankan aktivitas transaksi 
+Penyebab Utama :
+
+- Menyebarkan konten
+- Mengarahkan pengguna
+- Mempertahankan aktivitas transaksi
